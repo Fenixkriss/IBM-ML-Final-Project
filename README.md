@@ -6,12 +6,6 @@ Final project of IBM's course with a simple comparison between KNN,SVM,Decision 
 
 Final results:
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
 | Algorithm	| Jaccard	| F1-score | LogLoss |
 |-----------|---------|----------|---------|
 |KNN|	0.7407|	0.7144|	NA|
