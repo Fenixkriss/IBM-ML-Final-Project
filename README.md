@@ -13,4 +13,6 @@ Final results :rocket::
 |SVM	|0.7592	|0.6959	|NA|
 |LogisticRegression	|0.7777|	0.7089	|0.4947|
 
+![final_table](final_table.jpg)
+
 ![badge](Machine_Learning_with_Python.png)
